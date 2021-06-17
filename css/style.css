@@ -1,0 +1,54 @@
+body{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.c1{
+	display: flex;
+	background-color: red;
+	height: 10vh;
+}
+.cl2{
+	display: flex;
+	height: 80vh;
+}
+.c2{
+	display: inline-block;
+	background-color: green;
+	width: 95%;
+	height: 80vh;
+	position:relative;
+}
+.c3{
+	display: inline;
+	background-color: purple;
+	width: 5%;
+	height: 80vh;
+}
+
+.c4{
+	display: flex;
+	background-color: yellow;
+	height: 10vh;
+}
+.burner
+{
+	width: 300px;
+	position: absolute;
+	right: 5%;
+	bottom: 0%
+}
+.img2
+{
+	width: 300px;
+	position: absolute;
+	right: 5%;
+	top: 0%
+}
+.img3
+{
+	width: 200px;
+	position: absolute;
+	left:10%;
+	bottom: 15%
+}
